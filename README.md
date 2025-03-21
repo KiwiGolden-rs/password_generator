@@ -1,7 +1,8 @@
 This code is a personal project to learn Rust.
-! ! Never use it to generate your passwords !!
 
-In this code:
+**! ! Never use it to generate your passwords ! !**
+
+# In this code:
   - Create a random password (choose length, type of characteres).
   - Input application use.
   - Save the password in the clipboard.
